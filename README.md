@@ -11,28 +11,31 @@ I'm **Ahmed Hafas**, a passionate developer specializing in **Web Development** 
 
 ---
 
-## 🚀 Quick Stats
+## 🚀 Projects & Languages
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/count/ahmedhafas105/ahmedhafas105?style=for-the-badge" alt="Languages Used"/>
-  <img src="https://img.shields.io/github/repo-count/ahmedhafas105?style=for-the-badge" alt="Total Repositories"/>
-  <img src="https://img.shields.io/github/commit-activity/y/ahmedhafas105/ahmedhafas105?style=for-the-badge" alt="Commit Activity"/>
-  <img src="https://img.shields.io/github/followers/ahmedhafas105?style=for-the-badge" alt="Followers"/>
+**Repository Count:**  
+![Repos](https://img.shields.io/badge/Total%20Repositories-9-blueviolet?style=for-the-badge&logo=github)
+
+**Languages I Use:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,php,css,scss,less,html,python,cpp,dart,java,cmake" alt="Languages" />
 </p>
 
-- 👨‍💻 **Languages Experienced:**  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,cpp,python,html,css" alt="Languages" />
-  <!-- Add/Remove icons based on your skills: https://skillicons.dev/ -->
-
-- 🏗️ **Total Public Projects:**  
-  ![Repos](https://img.shields.io/github/repos/ahmedhafas105?style=social)
-
-- 🔥 **Total Commits (Top Repo):**  
-  ![Commits](https://img.shields.io/github/commit-activity/y/ahmedhafas105/ahmedhafas105)
+**Breakdown by Project:**
+- inventory_management: Blade, CSS, JavaScript, Less, PHP, SCSS
+- real-estate: CSS, HTML, JavaScript
+- Python_Projects: Python
+- recipe_app: C, C++, CMake, Dart, HTML, Java
+- timer_app: Dart, HTML, Java
+- SmartApp: C++
+- virtualCliQ: CSS, HTML, JavaScript
+- Internship_and_Job_Placement_Management_System: Blade, CSS, HTML, JavaScript, PHP, SCSS
+- NumberConvertor: Java
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedhafas105&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedhafas105&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -42,14 +45,15 @@ I'm **Ahmed Hafas**, a passionate developer specializing in **Web Development** 
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmedhafas105&theme=monokai&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🌱 Recent Activity
-<!-- Replace with your actual activity feed if you want -->
+## 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmedhafas105&theme=github-compact" alt="Activity Graph"/>
 </p>
