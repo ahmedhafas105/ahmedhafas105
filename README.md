@@ -14,7 +14,7 @@ I'm **Ahmed Hafas**, a passionate developer specializing in **Web Development** 
 ## 🚀 Projects & Languages
 
 **Repository Count:**  
-![Repos](https://img.shields.io/badge/Total%20Repositories-9-blueviolet?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Total%20Repositories-13-blueviolet?style=for-the-badge&logo=github)
 
 **Languages I Use:**  
 <p align="left">
